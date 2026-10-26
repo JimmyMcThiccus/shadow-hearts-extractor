@@ -1,0 +1,32 @@
+__pycache__/
+*.pyc
+.vs/
+.vscode/
+.idea/
+
+# game data and everything extracted from it
+*.iso
+*.bin
+*.cue
+*.img
+*.PKB
+*.TBL
+/ISO/
+/ISO Extracted/
+*_extracted/
+/Extracted/
+/Unpacked/
+/LSD_models/
+/export/
+/movies/
+/preview/
+/SH3/
+/disk2/
+*.glb
+*.gltf
+*.wav
+*.m2v
+*.ac3
+*.LSD
+*.mdl
+*.MDL
