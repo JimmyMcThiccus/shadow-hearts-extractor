@@ -1,4 +1,5 @@
 # Shadow Hearts Extractor
+# Completely Vibe coded so I could fuck around with SH2's cutscene models, Anyone who ends up patching it after me should do so and know what they're merging/forking. 
 
 Asset extraction tools for **Shadow Hearts: Covenant** (Shadow Hearts II, PS2) and **Shadow Hearts: From the New World**
 (PS2), plus a **Blender add-on** that imports in-engine cutscenes with their models, animation, face morphs, camera and
